@@ -5,7 +5,7 @@ const multiply = var1 * var2;
 
 const random = Math.random();
 
-const mod = 25 % 3; 
+const mod =  % ; 
 
 // describe('mod', function() {
 //     it("is generates a remainder that is equal to 4", function() {
