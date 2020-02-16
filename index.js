@@ -3,7 +3,7 @@ let var1 = 2;
 let var2 = 31;
 const multiply = var1 * var2;
 
-Math.random();
+const random = Math.random();
 // describe('random', function() {
 //     it("is generates a random integer greater than 0", function() {
 //       expect(random).to.be.a('number')
